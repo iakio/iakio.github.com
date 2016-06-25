@@ -429,3 +429,28 @@ Small Device Styles
   }
 
 }
+
+html {
+  font-size: 16px;
+  line-height: 1.5rem;
+}
+body,
+#header_wrap,
+#main_content_wrap {
+  --background-image: url("../grid24.png");
+}
+#project_title {
+  font-size: 6rem;
+  line-height: 12rem;
+}
+#main_content {
+  padding-top: 24px;
+}
+h3 {
+  font-size: 3rem;
+  margin: 0;
+  line-height: 6rem;
+}
+ul {
+  margin: 0;
+}
